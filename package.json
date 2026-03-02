@@ -1,0 +1,23 @@
+{
+  "name": "skills-create-applications-with-the-copilot-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mamarmor/skills-create-applications-with-the-copilot-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mamarmor/skills-create-applications-with-the-copilot-cli/issues"
+  },
+  "homepage": "https://github.com/mamarmor/skills-create-applications-with-the-copilot-cli#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
